@@ -3,6 +3,7 @@ This Power BI dashboard provides an in-depth view of Emergency Room (ER) operati
 
 ![](hospital_emergency_room.png)
 
+**Power BI Dashboard** : [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQxMjBiNjQtMTY4NC00OGJlLTkzZDYtMzlkOTA2ZDllMjljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Project Objectives:**
 1.	Monthly View: Monitor key metrics on a month-by-month basis to identify trends and improvement areas.
